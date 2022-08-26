@@ -38,4 +38,4 @@ images_reorg_dst
         └── 2020_12_30
             └── 2020_December_30_23_55_45.MOV
 ```
-At the end empty directories from source folder are deleted.
+At the end, empty directories from source folder are deleted.
